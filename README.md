@@ -1,6 +1,6 @@
 # Space Pong
 
-![](images/pong.jpg)
+![](images/pong.JPG)
 
 ## Description
 * Space Pong game
